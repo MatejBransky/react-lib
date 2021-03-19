@@ -19,5 +19,5 @@
       "@matejbransky/react-lib": ["."]
     }
   },
-  "include": ["./demo", "./src", "vite.config.ts"]
+  "include": ["./demo", "./src", "vite.config.ts", "jest-setup.ts"]
 }
