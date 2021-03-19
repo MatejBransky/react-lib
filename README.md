@@ -1,5 +1,8 @@
 # react-lib template
 
+[![Test](https://github.com/MatejBransky/react-lib/actions/workflows/test.yml/badge.svg)](https://github.com/MatejBransky/react-lib/actions/workflows/test.yml)
+[![Release](https://github.com/MatejBransky/react-lib/actions/workflows/release.yml/badge.svg)](https://github.com/MatejBransky/react-lib/actions/workflows/release.yml)
+
 A basic React+TS repository with [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) and [GitHub Actions workflow](https://github.com/features/actions) configuration to achieve fully automated package publishing to the NPM registry. As a bonus [Renovate bot](https://github.com/marketplace/renovate) keeps dependencies up to date.
 
 ## Features:
