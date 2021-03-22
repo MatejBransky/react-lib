@@ -1180,10 +1180,10 @@
     "@typescript-eslint/types" "4.18.0"
     eslint-visitor-keys "^2.0.0"
 
-"@utilize/eslint-config@1.1.5":
-  version "1.1.5"
-  resolved "https://registry.yarnpkg.com/@utilize/eslint-config/-/eslint-config-1.1.5.tgz#90567380c7bd78f5f89bd76780be80af99ce021d"
-  integrity sha512-rnhFrRqbn8J9fmNXkVEBDgt4DeMjD/H0Yd8LQ35SuKzGDXCcFqC6n9ecvm8/t3egTmsWcnah5gkeFhrVAyKU3Q==
+"@utilize/eslint-config@1.1.6":
+  version "1.1.6"
+  resolved "https://registry.yarnpkg.com/@utilize/eslint-config/-/eslint-config-1.1.6.tgz#dd579612ce898fe907b52cf31cf51aa8d7446190"
+  integrity sha512-9ES40mh/W58NaCkd1IKELcO2PGdB2HycNMRJ+q0uYosmtn0cPWrFU7IeGtuoVUu96HOpman2+2/PMx+al+OaYg==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^4.9.1"
     "@typescript-eslint/parser" "^4.9.1"
