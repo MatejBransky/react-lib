@@ -32,6 +32,7 @@ Let's start by setting up the new repository:
    - [ ] `LICENSE` (author name)
    - [ ] `README.md` (short description, getting started, installation),
    - [ ] `package.json` (attributes: name, url, author, main, module, exports),
+   - [ ] `tsconfig.json` (`compilerOptions.paths`)
    - [ ] `vite.config.ts` (`build.lib.name` and external dependencies),
    - [ ] [demo app](./demo),
    - [ ] [tests](./tests)
