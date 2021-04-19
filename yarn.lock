@@ -1228,17 +1228,17 @@
     "@typescript-eslint/types" "4.18.0"
     eslint-visitor-keys "^2.0.0"
 
-"@utilize/eslint-config@1.1.9":
-  version "1.1.9"
-  resolved "https://registry.yarnpkg.com/@utilize/eslint-config/-/eslint-config-1.1.9.tgz#37bbcc70f4493c912d1549287c0aac5e8f3ac5ab"
-  integrity sha512-zWUd8oTEsfNTgPEVcnMHcl6+ndDptk/PxdxdX2u7utjk9pRPoJqkY6UQ9l00JdoC1xoS2Bjy4fcjotGzIgVQ8Q==
+"@utilize/eslint-config@1.1.10":
+  version "1.1.10"
+  resolved "https://registry.yarnpkg.com/@utilize/eslint-config/-/eslint-config-1.1.10.tgz#5b7be02f9d76b8ef536be0512e0249c14d2f0527"
+  integrity sha512-qlrNqNRjROpppm66WOm2AFMJM7mXmqmen9XT1g9RAhrRlrwAVfzUmcbH5+wtP+4mdncdGn8t19APztw8DoyG9A==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^4.9.1"
     "@typescript-eslint/parser" "^4.9.1"
     babel-eslint "^10.1.0"
-    eslint-config-prettier "^8.0.0"
+    eslint-config-prettier "^8.1.0"
     eslint-config-react-app "^6.0.0"
-    eslint-plugin-flowtype "^5.2.0"
+    eslint-plugin-flowtype "^5.4.0"
     eslint-plugin-import "^2.22.1"
     eslint-plugin-jsx-a11y "^6.4.1"
     eslint-plugin-prettier "^3.2.0"
@@ -2977,10 +2977,10 @@ escodegen@^2.0.0:
   optionalDependencies:
     source-map "~0.6.1"
 
-eslint-config-prettier@^8.0.0:
-  version "8.1.0"
-  resolved "https://registry.npmjs.org/eslint-config-prettier/-/eslint-config-prettier-8.1.0.tgz#4ef1eaf97afe5176e6a75ddfb57c335121abc5a6"
-  integrity sha512-oKMhGv3ihGbCIimCAjqkdzx2Q+jthoqnXSP+d86M9tptwugycmTFdVR4IpLgq2c4SHifbwO90z2fQ8/Aio73yw==
+eslint-config-prettier@^8.1.0:
+  version "8.2.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-8.2.0.tgz#78de77d63bca8e9e59dae75a614b5299925bb7b3"
+  integrity sha512-dWV9EVeSo2qodOPi1iBYU/x6F6diHv8uujxbxr77xExs3zTAlNXvVZKiyLsQGNz7yPV2K49JY5WjPzNIuDc2Bw==
 
 eslint-config-react-app@^6.0.0:
   version "6.0.0"
@@ -3005,10 +3005,10 @@ eslint-module-utils@^2.6.0:
     debug "^2.6.9"
     pkg-dir "^2.0.0"
 
-eslint-plugin-flowtype@^5.2.0:
-  version "5.4.0"
-  resolved "https://registry.npmjs.org/eslint-plugin-flowtype/-/eslint-plugin-flowtype-5.4.0.tgz#a559526e56403cb97b470b524957fc526e2485fe"
-  integrity sha512-O0s0iTT5UxYuoOpHMLSIO2qZMyvrb9shhk1EM5INNGtJ2CffrfUmsnh6TVsnoT41fkXIEndP630WNovhoO87xQ==
+eslint-plugin-flowtype@^5.4.0:
+  version "5.7.1"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-flowtype/-/eslint-plugin-flowtype-5.7.1.tgz#16b15d7a981bc0894284a87e71021f523b4fa580"
+  integrity sha512-RsurlNszyKLIHJvw6J4C98ubTTsLlgzL5xYqQ6ZTV5d2E2iHIR744SxoU3o7yQf0HjIe0GwnAIxpD+g0IV+emg==
   dependencies:
     lodash "^4.17.15"
     string-natural-compare "^3.0.1"
